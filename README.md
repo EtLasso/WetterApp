@@ -18,6 +18,14 @@ Eine kleine Wetteranwendung mit PHP, HTML, CSS und JavaScript. Die App zeigt akt
 
 ## Projekt starten
 
+Direkt im Browser:
+
+```text
+https://etlasso.github.io/WetterApp/
+```
+
+Lokal starten:
+
 Variante 1:
 
 ```bat
