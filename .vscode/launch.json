@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Wetterapp im Browser starten",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "php -S localhost:8000 -t .",
+      "cwd": "${workspaceFolder}",
+      "serverReadyAction": {
+        "action": "openExternally",
+        "pattern": "Development Server \\((http://localhost:8000)\\) started",
+        "uriFormat": "%s/index.php"
+      }
+    }
+  ]
+}
