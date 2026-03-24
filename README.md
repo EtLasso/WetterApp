@@ -1,4 +1,4 @@
-# WetterApp
+# [WetterApp](https://etlasso.github.io/WetterApp/)
 
 Eine kleine Wetteranwendung mit PHP, HTML, CSS und JavaScript. Die App zeigt aktuelle Wetterdaten sowie eine kompakte 5-Tage-Vorschau auf Basis der Open-Meteo APIs.
 
@@ -20,9 +20,9 @@ Eine kleine Wetteranwendung mit PHP, HTML, CSS und JavaScript. Die App zeigt akt
 
 Direkt im Browser:
 
-```text
-https://etlasso.github.io/WetterApp/
-```
+Klicke auf den Namen [WetterApp](https://etlasso.github.io/WetterApp/) oder auf diesen Link, um die App direkt im Browser zu starten:
+
+[WetterApp direkt öffnen](https://etlasso.github.io/WetterApp/)
 
 Lokal starten:
 
